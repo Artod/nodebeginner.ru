@@ -1,4 +1,4 @@
 NodeBeginner.ru
 ===============
 
-"Node.js для начинающих" - перевод на русский Manuel Kiessling's ("The Node Beginner Book")[http://nodebeginner.org/]
+"Node.js для начинающих" - перевод на русский Manuel Kiessling's ["The Node Beginner Book"](http://nodebeginner.org/)
